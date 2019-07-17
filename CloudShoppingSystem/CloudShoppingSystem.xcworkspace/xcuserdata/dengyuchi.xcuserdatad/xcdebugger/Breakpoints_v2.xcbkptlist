@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/SABaseNetworkManager.m"
+            timestampString = "521801561.363376"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "-singalUploadWithURL:parameters:image:name:fileName:mimeType:progress:callBack:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Networking/SABaseNetworkManager.m"
+            timestampString = "521801561.363376"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "-singalUploadWithURL:parameters:image:name:fileName:mimeType:progress:callBack:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/HomePage/ViewControllers/CSInvestmentRecordTableViewController.m"
+            timestampString = "521801931.415952"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "-getNegotiationByCodeAndAccount"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Event/ViewControllers/CSEventViewController.m"
+            timestampString = "521806071.230815"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "417"
+            endingLineNumber = "417"
+            landmarkName = "-SubmitData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Event/ViewControllers/CSEventViewController.m"
+            timestampString = "521806071.230815"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "417"
+            endingLineNumber = "417"
+            landmarkName = "-SubmitData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Event/ViewControllers/CSEventViewController.m"
+            timestampString = "521806071.230815"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "402"
+            endingLineNumber = "402"
+            landmarkName = "-SubmitData"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CSEventViewController SubmitData]"
+                  moduleName = "CloudShoppingSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dengyuchi/%E5%B7%A5%E4%BD%9C/%E9%AB%98%E5%BE%B7%E5%94%AF%E6%96%AF/%E9%AB%98%E5%BE%B7%E5%94%AF%E6%96%AF%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%A0%81/%E9%AB%98%E5%BE%B7%E7%9D%BF%E4%BA%91%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F/IOS/CloudShoppingSystem/Modules/Event/ViewControllers/CSEventViewController.m"
+                  timestampString = "521808117.748256"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "404"
+                  endingLineNumber = "404"
+                  offsetFromSymbolStart = "1988">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CSEventViewController SubmitData]"
+                  moduleName = "CloudShoppingSystem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dengyuchi/%E5%B7%A5%E4%BD%9C/%E9%AB%98%E5%BE%B7%E5%94%AF%E6%96%AF/%E9%AB%98%E5%BE%B7%E5%94%AF%E6%96%AF%E9%A1%B9%E7%9B%AE%E4%BB%A3%E7%A0%81/%E9%AB%98%E5%BE%B7%E7%9D%BF%E4%BA%91%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E7%B3%BB%E7%BB%9F/IOS/CloudShoppingSystem/Modules/Event/ViewControllers/CSEventViewController.m"
+                  timestampString = "521808117.750266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "404"
+                  endingLineNumber = "404"
+                  offsetFromSymbolStart = "2020">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Event/ViewControllers/CSEventViewController.m"
+            timestampString = "521806071.230815"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "545"
+            endingLineNumber = "545"
+            landmarkName = "-pickViewSelectItem:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/Event/ViewControllers/CSEventViewController.m"
+            timestampString = "521806061.688282"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "410"
+            endingLineNumber = "410"
+            landmarkName = "-SubmitData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Modules/HomePage/Views/CSBLBasicInfoFooterView.m"
+            timestampString = "521807744.953315"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "-action_noBtn:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

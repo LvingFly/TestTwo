@@ -1,0 +1,15 @@
+platform :ios, '7.0'
+
+target "CloudShoppingSystem" do
+
+pod 'AFNetworking', ‘3.1.0’
+pod 'Masonry', '0.6.4'
+pod 'MBProgressHUD', '~> 0.9.2'
+pod 'SDWebImage', '~> 3.8.1'
+pod 'MJExtension', '~> 3.0.11'
+pod 'MJRefresh', '~> 3.1.10'
+pod 'NJKWebViewProgress', '~> 0.2.3'
+pod 'WebViewJavascriptBridge', '~> 5.0.5'
+pod 'RongCloudIM/IMKit', '~> 2.8.3' 
+
+end 

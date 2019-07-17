@@ -1,0 +1,30 @@
+//
+//  CloudShopping.pch
+//  CloudShoppingSystem
+//
+//  Created by dengyuchi on 2017/5/3.
+//  Copyright © 2017年 dengyuchi. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "SAConfig.h"
+
+#endif
+
+//是否打印日志，否的话注释下行
+#define _SHOW_DEBUG_LOG_
+
+#ifdef _SHOW_DEBUG_LOG_
+#define DebugLog(format,...) NSLog(@"%s --->" format,__PRETTY_FUNCTION__,##__VA_ARGS__)
+#else
+#define DebugLog(...)
+
+#endif
